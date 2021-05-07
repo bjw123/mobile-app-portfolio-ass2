@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kanji</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="main_quokka_img_desc">Quokka</string>
+    <string name="main_title_txt">home page</string>
+    <string name="dboard_search_btn">Search </string>
+</resources>
